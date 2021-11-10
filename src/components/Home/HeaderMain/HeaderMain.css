@@ -1,0 +1,7 @@
+.header-container-btn{
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(28, 199, 193), rgb(94, 187, 185));
+    color: white;
+    border: none;
+    font-weight: bold;
+}
