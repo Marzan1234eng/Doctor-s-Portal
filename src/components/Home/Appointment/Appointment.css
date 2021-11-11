@@ -1,0 +1,12 @@
+.appointment-container{
+    background-image: url("../../../images/chairBg.png");
+    background-size: cover;
+    background-color: #3A4256;
+    opacity: .8;
+    height: 450px;
+}
+
+.appointment-doc-img{
+    height: 550px;
+    transform: translateY(-100px);
+}
