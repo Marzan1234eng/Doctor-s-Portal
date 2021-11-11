@@ -15,7 +15,7 @@ const Contact = () => {
                         <br/>
                         <textarea className="form-control" aria-label="With textarea"></textarea>
                         <br/>
-                        <button className='header-container-btn'>Submit</button>
+                        <button className='mb-5 header-container-btn'>Submit</button>
                     </div>
                 </div>
             </div>
