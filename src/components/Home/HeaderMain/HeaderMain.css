@@ -7,6 +7,10 @@
     border-radius: 5px;
 }
 
+.text-brand{
+    color: rgb(28, 199, 193);
+}
+
 .justify-text{
     text-align: justify;
 }
